@@ -7,9 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by tommy on 10/13/15.
- */
+
 public class TodoStore {
 	static File mFilesDir;
 	static List<String> mItems = new ArrayList<String>();
